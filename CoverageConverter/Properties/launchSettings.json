@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CoverageConverter": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\CoverageConverter.exe 'C:\\Users\\rr611454\\Downloads\\20200210.11.Release.Any CPU.1314.coverage' C:\\Users\\rr611454\\Downloads\\Testing testing"
+    }
+  }
+}
