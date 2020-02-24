@@ -1,0 +1,3 @@
+1. build project ```dotnet build```
+2. navigate to build directory (default is /bin/netcoreapp3.1/debug Or something like this)
+3. run ```.\CoverageConverter.exe 'C:\Users\rr611454\Downloads\20200214.5.Release.Any CPU.1351.coverage' C:\Users\rr611454\Downloads\Testing testing "C:\Users\rr611454\source\repos\CoverTaggerLibrary\"``` where the first is the full path to the file to convert. the second is the output path. third is the name? I kind of forget.
